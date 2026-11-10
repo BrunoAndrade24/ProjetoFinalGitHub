@@ -1,0 +1,3 @@
+equipa 1
+equipa2
+equipa3
